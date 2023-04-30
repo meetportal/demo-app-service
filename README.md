@@ -1,3 +1,5 @@
-# Portal Service Starter
+# Demo App Notification
 
-This project is a starter for creating a portal service. It is a simple project that can be used as a starting point for creating a portal service.
+Demonstrates pushing a notification to Portal as well as setting a badge on the Application tile.
+
+[https://meetportal.github.io/demo-app-notification/dist/worker.js](https://meetportal.github.io/demo-app-notification/dist/worker.js)
