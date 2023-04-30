@@ -1,7 +1,7 @@
 {
-  "name": "portal-service-starter",
-  "version": "0.0.0",
-  "description": "Portal service worker starter",
+  "name": "demo-app-notification",
+  "version": "0.1.0",
+  "description": "Demonstrates sending a notification and setting a badge count",
   "type": "module",
   "files": [
     "dist"
