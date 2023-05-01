@@ -1,6 +1,6 @@
 {
   "name": "demo-app-notification",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Demonstrates sending a notification and setting a badge count",
   "type": "module",
   "files": [
@@ -10,10 +10,10 @@
     "build": "tsc && vite build"
   },
   "devDependencies": {
-    "typescript": "^4.9.4",
-    "vite": "^4.0.4"
+    "typescript": "^5.0.4",
+    "vite": "^4.3.3"
   },
   "dependencies": {
-    "@meetportal/portal-js": "^0.3.4"
+    "@meetportal/portal-js": "^0.4.1"
   }
 }
