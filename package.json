@@ -14,6 +14,6 @@
     "vite": "^4.3.3"
   },
   "dependencies": {
-    "@meetportal/portal-js": "^0.4.1"
+    "@meetportal/portal-js": "^0.4.2"
   }
 }
