@@ -16,7 +16,6 @@ const badge: Badge = {
 portal.sendRequest(APP.SET_BADGE, badge)
 
 portal.pushNotification({
-  appId: '5',
   type: 'app',
   title: 'Please follow up with Nancy',
   text: 'Nancy needs a follow up appointment.',
