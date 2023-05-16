@@ -15,12 +15,12 @@ const badge: Badge = {
 }
 portal.sendRequest(APP.SET_BADGE, badge)
 
-portal.pushNotification({
-  type: 'app',
-  title: 'Please follow up with Nancy',
-  text: 'Nancy needs a follow up appointment.',
-  data: {
-    patientId: '6',
-  },
-  createdAt: new Date(),
-})
+// portal.pushNotification({
+//   type: 'app',
+//   title: 'Please follow up with Nancy',
+//   text: 'Nancy needs a follow up appointment.',
+//   data: {
+//     patientId: '6',
+//   },
+//   createdAt: new Date(),
+// })
